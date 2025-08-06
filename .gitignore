@@ -30,3 +30,17 @@ go.work.sum
 # Editor/IDE
 # .idea/
 # .vscode/
+
+*.pyc
+*.bak
+/Build
+/Conf
+/.vs
+/.vscode
+*_extdep/
+*.pyore
+hack
+keys
+boot
+.DS_Store
+.cache

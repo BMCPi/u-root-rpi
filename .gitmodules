@@ -1,0 +1,12 @@
+[submodule "u-root"]
+	path = u-root
+	url = https://github.com/BMCPi/u-root-rpi.git
+[submodule "platforms"]
+	path = platforms
+	url = https://github.com/tianocore/edk2-platforms.git
+[submodule "non-osi"]
+	path = non-osi
+	url = https://github.com/tianocore/edk2-non-osi.git
+[submodule "edk2"]
+	path = edk2
+	url = https://github.com/tianocore/edk2.git
